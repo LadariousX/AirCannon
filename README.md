@@ -23,8 +23,8 @@ Don't forget to shop around these links are only reference!
 | Primary spring | 🤷‍♂️ | 🤪 | I slavaged mine from a dishwasher. |
 | Trigger return spring | 🤷‍♂️ | 3.00 | choose to fit |
 | Bering | [link](https://www.mcmaster.com/60355K336/) | 7.72 | McMasterCarr link... you can buy anywhere|
-| .25x.75" socket head | [link](https://www.mcmaster.com/91274A164/) | 12.05 | Stainless not necessary but helps |
-| .25 nylon lock nut | [link](https://www.mcmaster.com/90715A125/) | 8.95 |
+| .25 UNC x.75" socket head | [link](https://www.mcmaster.com/91274A164/) | 12.05 | Stainless not necessary but helps |
+| .25" UNC nylon lock nut | [link](https://www.mcmaster.com/90715A125/) | 8.95 |
 | M3x25 socket head | [link](https://www.mcmaster.com/91292A020/) | 8.72 |
 | M3 nut | [link](https://www.mcmaster.com/91828A211/) | 4.73 |
 | 1/4" NPT Guage| [link](https://www.mcmaster.com/4000K791-4000K565/) | 15.85 |
